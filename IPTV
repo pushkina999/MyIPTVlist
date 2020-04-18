@@ -1,0 +1,38 @@
+#EXTM3U
+#EXTINF:-1,PIRVELI TV
+https://hls.t.stream-dns.net/hls/tvpirveli_1/index.m3u8
+#EXTINF:-1,1TV-HD
+https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,1TV-SD
+http://tv.cdn.xsg.ge/gpb-1tv/tracks-v2a1/index.m3u8
+#EXTINF:-1,1TV_GANATLEBA
+https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,RUSTAVI_2
+http://hls.t.stream-dns.net/hls/rustavi2/rustavi2.m3u8
+#EXTINF:-1,MTAVARI_ARXI
+http://bozztv.com/36bay2/mtavariarxi/tracks-v1a1/mono.m3u8
+#EXTINF:-1,IMEDI
+https://imedi-tv.cdn.xsg.ge/imedihd/tracks-v1a1/mono.m3u8
+#EXTINF:-1,GDS TV
+https://bozztv.com/36bay2/gin/giniko_gdstv_800kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Comedy_Arkhi
+http://tv.cdn.xsg.ge/comedy/tracks-v1a1/index.m3u8
+#EXTINF:-1,FORMULA
+https://c4635.cdn.xsg.ge/c4635/TVFormula/tracks-v2a1/mono.m3u8
+#EXTINF:-1,Silk-Universal
+http://tv.cdn.xsg.ge/silk/tracks-v1a1/index.m3u8
+#EXTINF:-1,IMEDI
+https://imedi-tv.cdn.xsg.ge/imedihd/index.m3u8
+#EXTINF:-1,Maestro
+https://hls.t.stream-dns.net/hls/maestro_1/index.m3u8
+#EXTINF:-1,PALITRA
+https://livestream.palitra.ge/hls/palitratv/index.m3u8
+#EXTINF:-1,ADJARA
+http://tv.cdn.xsg.ge/adjara/tracks-v1a1/index.m3u8
+#EXTINF:-1,Pervyy kanal
+http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_YARL_1TV/variant.m3u8   
+#EXTINF:-1,Russian_24
+https://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_2.m3u8  
+#EXTINF:-1,Nat Geo Wild
+https://tinyurl.com/v7glc8f/nat_geo_wild/normal/1/index.m3u8  
+  
