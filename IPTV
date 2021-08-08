@@ -43,6 +43,8 @@ http://tv.cdn.xsg.ge/adjara/tracks-v1a1/index.m3u8
 http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_YARL_1TV/variant.m3u8   
 #EXTINF:-1,Russian_24
 https://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_2.m3u8  
-#EXTINF:-1,Nat Geo Wild
-https://tinyurl.com/v7glc8f/nat_geo_wild/normal/1/index.m3u8  
+#EXTINF:-1,Muzhskoekino
+https://sc.id-tv.kz/Mujskoe_kino_hd.m3u8 
+#EXTINF:-1,shanson
+http://uiptv.do.am/1ufc/602079679/playlist.m3u8
   
