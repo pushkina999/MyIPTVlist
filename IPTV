@@ -22,7 +22,9 @@ https://streaming.televizia.org/live/hls/41-NAxqMYyVfVgf2V80VQg/1628427911/gds.m
 #EXTINF:-1,GDS TV 2
 https://live2.mar.tv/b76b6ac646e1dbf778db81958a7e29ae7276a4fdd859e5da42397dc6f7728193/13hd/index.m3u8
 #EXTINF:-1,Comedy_Arkhi
-http://tv.cdn.xsg.ge/comedy/tracks-v1a1/index.m3u8
+https://live4.mar.tv/3f9f343f4f7cb5916e5a47e8eeb795dc9b9edb40abd892e4b3ca19aa1ca5dad0/14rd/index.m3u8
+#EXTINF:-1,Comedy_Arkhi 2
+https://streaming.televizia.org/live/hls/K-DF7uT0UuacVWWXPpskLw/1628432527/comedy.m3u8
 #EXTINF:-1,FORMULA
 https://c4635.cdn.xsg.ge/c4635/TVFormula/tracks-v2a1/mono.m3u8
 #EXTINF:-1,Silk-Universal
