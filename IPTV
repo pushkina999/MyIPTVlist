@@ -31,16 +31,12 @@ https://c4635.cdn.xsg.ge/c4635/TVFormula/tracks-v2a1/mono.m3u8
 https://live2.mar.tv/3f9f343f4f7cb5916e5a47e8eeb795dc9b9edb40abd892e4b3ca19aa1ca5dad0/155e/index.m3u8
 #EXTINF:-1,Silk-Universal 2
 https://streaming.televizia.org/live/hls/QgduHDVmo67v3q7CmfJKFg/1628439190/silk.m3u8
-#EXTINF:-1,IMEDI
-https://imedi-tv.cdn.xsg.ge/imedihd/index.m3u8
-#EXTINF:-1,Maestro
-https://hls.t.stream-dns.net/hls/maestro_1/index.m3u8
 #EXTINF:-1,PALITRA
 https://livestream.palitra.ge/hls/palitratv/index.m3u8
-#EXTINF:-1,ADJARA
-http://tv.cdn.xsg.ge/adjara/tracks-v1a1/index.m3u8
 #EXTINF:-1,Pervyy kanal
-http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_YARL_1TV/variant.m3u8   
+https://live2.mar.tv/3f9f343f4f7cb5916e5a47e8eeb795dc9b9edb40abd892e4b3ca19aa1ca5dad0/85sd/index.m3u8
+#EXTINF:-1,dom-kino
+http://edge05.beetv.kz/btv/SWM/Dom_kino_Prem/Dom_kino_Prem.m3u8
 #EXTINF:-1,Russian_24
 https://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_2.m3u8  
 #EXTINF:-1,Muzhskoekino
