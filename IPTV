@@ -15,6 +15,8 @@ http://bozztv.com/36bay2/mtavariarxi/tracks-v1a1/mono.m3u8
 http://tv.cdn.xsg.ge/imedihd/tracks-v1a1/index.m3u8
 #EXTINF:-1,GDS TV
 https://streaming.televizia.org/live/hls/41-NAxqMYyVfVgf2V80VQg/1628427911/gds.m3u8
+#EXTINF:-1,GDS TV 2
+https://live2.mar.tv/b76b6ac646e1dbf778db81958a7e29ae7276a4fdd859e5da42397dc6f7728193/13hd/index.m3u8
 #EXTINF:-1,Comedy_Arkhi
 http://tv.cdn.xsg.ge/comedy/tracks-v1a1/index.m3u8
 #EXTINF:-1,FORMULA
